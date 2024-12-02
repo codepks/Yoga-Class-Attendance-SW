@@ -16,9 +16,10 @@
 # UI Proposal
 
 UI pages to navigage between
-1.	Client Sign up
-2.	Client Search and Update
-3.	Attendance portal
-4.	Client Progress portal
-5.	[Navigation](Images/Navigation.jpg)
+1.  [Entry Page](Images/Entry Page.jpg)
+2.	[Client Sign up](Images/2. Client Update or Entry Portal.jpg)
+3.	[Client Search and Update]()
+4.	[Attendance portal]()
+5.	[Client Progress portal]()
+6.	[Navigation](Images/Navigation.jpg)
 
