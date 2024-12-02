@@ -16,10 +16,12 @@
 # UI Proposal
 
 UI pages to navigage between
-1.  [Entry Page](Images/Entry Page.jpg)
-2.	[Client Sign up](Images/2. Client Update or Entry Portal.jpg)
-3.	[Client Search and Update]()
-4.	[Attendance portal]()
-5.	[Client Progress portal]()
-6.	[Navigation](Images/Navigation.jpg)
+1. [Entry Page](https://github.com/codepks/Yoga-Class-Attendance-SW/blob/main/Images/1.%20Entry%20Page.jpg)
+2. [Client Update or Entry Portal](https://github.com/codepks/Yoga-Class-Attendance-SW/blob/main/Images/2.%20Client%20Update%20or%20Entry%20Portal.jpg)
+3. [Chose Class Portal](https://github.com/codepks/Yoga-Class-Attendance-SW/blob/main/Images/3.%20Chose%20Class%20Portal.jpg)
+4. [Attendance Portal](https://github.com/codepks/Yoga-Class-Attendance-SW/blob/main/Images/4.%20Attendance%20Portal.jpg)
+5. [Client Entry](https://github.com/codepks/Yoga-Class-Attendance-SW/blob/main/Images/Client%20Entry.jpg)
+6. [Client Progress](https://github.com/codepks/Yoga-Class-Attendance-SW/blob/main/Images/Client%20Progress%20.jpg)
+7. [Client Search and Update](https://github.com/codepks/Yoga-Class-Attendance-SW/blob/main/Images/Client%20Search%20and%20Update.jpg)
+8. [Navigation](https://github.com/codepks/Yoga-Class-Attendance-SW/blob/main/Images/Navigation.jpg)
 
