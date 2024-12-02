@@ -20,6 +20,5 @@ UI pages to navigage between
 2.	Client Search and Update
 3.	Attendance portal
 4.	Client Progress portal
-
-# Navigation
+5.	[Navigation](Images/Navigation.jpg)
 
