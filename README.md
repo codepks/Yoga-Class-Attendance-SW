@@ -1,4 +1,4 @@
-# Main Requirements :
+![image](https://github.com/user-attachments/assets/f8bbe62f-f82c-464a-9f4b-af059891ee6e)# Main Requirements :
 1.	We should be able to enter new client entries
 2.	We should be able to update existing client entries
 3.	We should be able to add the attendance of a client
@@ -25,3 +25,21 @@ UI pages to navigage between
 7. [Client Search and Update](https://github.com/codepks/Yoga-Class-Attendance-SW/blob/main/Images/Client%20Search%20and%20Update.jpg)
 8. [Navigation](https://github.com/codepks/Yoga-Class-Attendance-SW/blob/main/Images/Navigation.jpg)
 
+# Database details
+DataBase Software:
+1. Name
+2. UserName - generated = Name + DOB
+3. DOB
+4. Age
+5. Phone
+6. City/Town
+7. Course
+8. Existing Illness
+9. Start Date
+10. End Date
+11. Course Duration - calculated - may not add
+12. Relative Relation
+
+ 
+
+ 
