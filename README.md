@@ -29,16 +29,19 @@ UI pages to navigage between
 DataBase Software:
 1. Name
 2. UserName - generated = Name + DOB
-3. DOB
-4. Age
-5. Phone
-6. City/Town
-7. Course
-8. Existing Illness
-9. Start Date
-10. End Date
-11. Course Duration - calculated - may not add
-12. Relative Relation
+3. email-id
+4. Phone number
+5. Password
+6. DOB
+7. Age
+8. Phone
+9. City/Town
+10. Course
+11. Existing Illness
+12. Start Date
+13. End Date
+14. Course Duration - calculated - may not add
+15. Relative Relation
 
  
 
