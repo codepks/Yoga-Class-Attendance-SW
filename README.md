@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8bbe62f-f82c-464a-9f4b-af059891ee6e)# Main Requirements :
+# Main Requirements :
 1.	We should be able to enter new client entries
 2.	We should be able to update existing client entries
 3.	We should be able to add the attendance of a client
